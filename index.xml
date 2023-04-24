@@ -33,6 +33,15 @@
     </item>
     
     <item>
+      <title>My Last Week 5</title>
+      <link>https://example.com/post/mylastweek/</link>
+      <pubDate>Mon, 24 Apr 2023 18:39:38 +0300</pubDate>
+      <guid>https://example.com/post/mylastweek/</guid>
+      <description>&lt;p&gt;My week was productive. I started studying Chinese language courses. I also attended a master class on making cakes and confectionery. Besides that, I was glad to meet new people and have a good time with them&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Scientific programming languages</title>
       <link>https://example.com/post/programming_language/</link>
       <pubDate>Mon, 24 Apr 2023 16:38:21 +0300</pubDate>
